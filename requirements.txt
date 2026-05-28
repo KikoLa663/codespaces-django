@@ -5,3 +5,4 @@ python-decouple~=3.8
 psycopg2-binary
 dj-database-url
 sqlparse~=0.5.1
+whitenoise
